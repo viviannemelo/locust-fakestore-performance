@@ -1,5 +1,8 @@
 # Performance Testing with Locust - FakeStore API
 
+![locust_project](https://github.com/user-attachments/assets/497d28d8-71a4-4b91-8d2a-c0137a27ec91)
+
+
 ## 📝 Project Description
 This project demonstrates performance testing of a RESTful e-commerce API using [Locust](https://locust.io/). We simulate user behaviors such as browsing products, authenticating, and using the cart feature. The FakeStore API (https://fakestoreapi.com) is used as the testing target.
 
